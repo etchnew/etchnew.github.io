@@ -897,11 +897,15 @@ section
 }
 .test_image
 {
-	width: 53px;
-	height: 53px;
-	border-radius: 50%;
-	overflow: hidden;
+	width: 55px;
+	height: 55px;
 }
+
+.test_image img{
+	width:55px;
+	height: 55px;
+}
+
 .test_content
 {
 	padding-left: 40px;
@@ -1004,6 +1008,8 @@ section
 	transition: all 200ms ease;
 }
 
+.owl-item img {width:300px; height:300px;}
+
 /*********************************
 10. Services
 *********************************/
@@ -1024,8 +1030,8 @@ section
 }
 .service_icon
 {
-	width: 62px;
-	height: 62px;
+	width: 55px;
+	height: 55px;
 }
 .service_icon img
 {
@@ -1100,7 +1106,7 @@ section
 }
 .blog_post_image img
 {
-	max-width: 100%;
+	width:55px;
 }
 .blog_post_title
 {
@@ -1156,7 +1162,7 @@ section
 	display: block;
 	width: 100%;
 	background: #262626;
-	padding-top: 96px;
+	padding-top: 70px;
 	border-top: solid 1px #88591d;
 	padding-bottom: 20px;
 }
@@ -1182,7 +1188,7 @@ section
 }
 .footer_nav
 {
-	margin-top: 80px;
+	margin-top: 50px;
 }
 .footer_nav ul li:not(:last-of-type)
 {
