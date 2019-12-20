@@ -181,6 +181,13 @@
 	{
 		margin-right: 40px;
 	}
+
+    .logo > div{font-size: 20px;}
+
+    .logo img{height:35px;}
+
+    .owl-item img {width:300px; height:300px;}
+
 }
 
 /************
@@ -189,6 +196,36 @@
 
 @media only screen and (max-width: 959px)
 {
+
+    .logo > div{font-size: 18px;}
+
+    .logo img{height:30px;}
+
+.test_image img{
+	width:35px;
+	height: 35px;
+}
+
+.box_icon img
+{
+	max-width: 60%;
+}
+
+.blog_post_image img
+{
+	width:35px;
+}
+
+.footer_logo .logo img
+{
+	width: 35px;
+	height: 35px;
+}
+
+.footer_logo .logo > div
+{
+	font-size: 18px;
+}
 	
 }
 
@@ -207,6 +244,13 @@
 
 @media only screen and (max-width: 768px)
 {
+
+    .owl-item img {height:230px;}
+
+.service_icon img
+{
+	max-width: 60%;
+}
 	
 }
 
@@ -242,6 +286,9 @@
 	{
 		margin-bottom: 79px;
 	}
+
+    .owl-item img {height:180px;}
+
 }
 
 /************
