@@ -397,6 +397,9 @@ section
 	font-weight: 300;
 	text-transform: uppercase;
 }
+
+.logo img{height:50px;}
+
 .main_nav
 {
 	margin-left: 120px;
@@ -611,7 +614,7 @@ section
 .home
 {
 	width: 100%;
-	height: 100vh;
+	height: 125vh;
 	overflow: hidden;
 }
 .overlay
@@ -631,7 +634,7 @@ section
 {
 	position: absolute;
 	left: 0;
-	top: 30.61%;
+	top: 25%;
 	width: 100%;
 }
 .video_link
@@ -677,7 +680,7 @@ section
 	font-weight: 200;
 	color: #fff;
 	line-height: 1.2;
-	margin-top: -9px;
+	margin-top: 0px;
 }
 .home_subtitle
 {
@@ -1178,12 +1181,12 @@ section
 }
 .footer_logo .logo > div
 {
-	font-size: 45.07px;
+	font-size: 30px;
 }
 .footer_logo .logo img
 {
-	width: 38px;
-	height: 38px;
+	width: 52px;
+	height: 52px;
 	margin-right: 4px;
 }
 .footer_nav
