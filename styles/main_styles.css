@@ -368,8 +368,8 @@ section
 	top: 0;
 	left: 0;
 	width: 100%;
-	border-bottom: solid 1px #FFFFFF;
-	background: #262626;
+	border-bottom: solid 1px #000000;
+	background-image: linear-gradient( #250e2c, #b44786);
 	z-index: 100;
 }
 .header_content
@@ -718,15 +718,15 @@ section
 }
 .box:first-child
 {
-	background: #262626;
+	background-image: linear-gradient(to bottom right, #250e2c, #b44786);
 }
 .box:nth-child(2)
 {
-	background: #ef8701;
+	background-image: linear-gradient( #250e2c, #b44786);
 }
 .box:nth-child(3)
 {
-	background: #ff9711;
+	background-image: linear-gradient(to bottom left, #250e2c, #b44786);
 }
 .box_icon
 {

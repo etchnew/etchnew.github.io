@@ -370,7 +370,7 @@ section
 	left: 0;
 	width: 100%;
 	border-bottom: solid 1px #FFFFFF;
-	background: #262626;
+	background-image: linear-gradient(b44786, 250e2c);
 	z-index: 100;
 }
 .header_content
