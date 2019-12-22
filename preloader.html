@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script type="text/java script">
+
+</script>
+
+<style type="text/css">
+
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #262626;
+  z-index: 800;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  opacity:0.8;
+}
+
+.no-js #preloader,
+.oldie #preloader {
+  display: none;
+}
+
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  display: inline-block;
+  -webkit-transform: translate3d(-50%, -50%, 0);
+  -ms-transform: translate3d(-50%, -50%, 0);
+  transform: translate3d(-50%, -50%, 0);
+}
+
+#loader .line_main{
+    position:absolute;
+    color:#FFF;
+    width:50px;
+    border: 1px solid;
+    margin-left:-20px;
+  -webkit-animation: line_main 1s ease;
+  animation: line_main 1s ease;
+}
+
+#loader .line_long{
+    position:absolute;
+    color:#FFF;
+    width:60px;
+    border: 1px solid;
+  -webkit-animation: line_long 2s infinite ease;
+  animation: line_long 2s infinite ease;
+}
+
+#loader .line_short{
+    position:absolute;
+    color:#FFF;
+    width:40px;
+    border: 1px solid;
+    margin-left:10px;
+  -webkit-animation: line_short 2s infinite ease;
+  animation: line_short 2s infinite ease;
+}
+
+/*animation*/
+
+@keyframes line_long{
+0%{width:60px;}
+50%{width:40px;    margin-left:10px;}
+100%{width:60px;}
+}
+
+@keyframes line_short{
+0%{width:40px;}
+50%{width:60px;    margin-left:0px;}
+100%{width:40px;}
+}
+
+@keyframes line_main{
+0%{width:40px;      margin-left:0px;}
+100%{width:50px;    margin-left:-20px;}
+}
+
+
+</style>
+
+</head>
+
+<body>
+
+    <div id="preloader">
+        <div id="loader">
+            <div class="line_main"></div>
+
+            <div class="line_long" style="-webkit-transform: rotate(0deg);-ms-transform: rotate(0deg); transform: rotate(0deg);"></div>
+            <div class="line_long" style="-webkit-transform: rotate(90deg);-ms-transform: rotate(90deg); transform: rotate(90deg);"></div>
+            <div class="line_long" style="-webkit-transform: rotate(30deg);-ms-transform: rotate(30deg); transform: rotate(30deg);"></div>
+            <div class="line_long" style="-webkit-transform: rotate(60deg);-ms-transform: rotate(60deg); transform: rotate(60deg);"></div>
+            <div class="line_long" style="-webkit-transform: rotate(120deg);-ms-transform: rotate(120deg); transform: rotate(120deg);"></div>
+            <div class="line_long" style="-webkit-transform: rotate(150deg);-ms-transform: rotate(150deg); transform: rotate(150deg);"></div>
+
+            <div class="line_short" style="-webkit-transform: rotate(15deg);-ms-transform: rotate(15deg); transform: rotate(15deg);"></div>
+            <div class="line_short" style="-webkit-transform: rotate(105deg);-ms-transform: rotate105deg); transform: rotate(105deg);"></div>
+            <div class="line_short" style="-webkit-transform: rotate(45deg);-ms-transform: rotate(45deg); transform: rotate(45deg);"></div>
+            <div class="line_short" style="-webkit-transform: rotate(75deg);-ms-transform: rotate(75deg); transform: rotate(75deg);"></div>
+            <div class="line_short" style="-webkit-transform: rotate(135deg);-ms-transform: rotate(135deg); transform: rotate(135deg);"></div>
+            <div class="line_short" style="-webkit-transform: rotate(165deg);-ms-transform: rotate(165deg); transform: rotate(165deg);"></div>
+        </div>
+    </div>
+
+</body>
+</html>
