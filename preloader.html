@@ -45,7 +45,7 @@
     color:#FFF;
     width:50px;
     border: 1px solid;
-    margin-left:-20px;
+    margin-left:-25px;
   -webkit-animation: line_main 1s ease;
   animation: line_main 1s ease;
 }
@@ -85,10 +85,69 @@
 
 @keyframes line_main{
 0%{width:40px;      margin-left:0px;}
-100%{width:50px;    margin-left:-20px;}
+100%{width:50px;    margin-left:-25px;}
+}
+
+@keyframes cir1{
+0%{-webkit-transform: rotate(-30deg);-ms-transform: rotate(-30deg); -moz-transform: rotate(-30deg);}
+100%{-webkit-transform: rotate(30deg);-ms-transform: rotate(30deg); -moz-transform: rotate(30deg);}
+}
+
+@keyframes cir2{
+0%{-webkit-transform: rotate(30deg);-ms-transform: rotate(30deg); -moz-transform: rotate(30deg);}
+100%{-webkit-transform: rotate(-30deg);-ms-transform: rotate(-30deg); -moz-transform: rotate(-30deg);}
+}
+
+-webkit-@keyframes line_long{
+0%{width:60px;}
+50%{width:40px;    margin-left:10px;}
+100%{width:60px;}
+}
+
+-webkit-@keyframes line_short{
+0%{width:40px;}
+50%{width:60px;    margin-left:0px;}
+100%{width:40px;}
+}
+
+-webkit-@keyframes line_main{
+0%{width:40px;      margin-left:0px;}
+100%{width:50px;    margin-left:-25px;}
+}
+
+-webkit-@keyframes cir1{
+0%{-webkit-transform: rotate(-30deg);-ms-transform: rotate(-30deg); -moz-transform: rotate(-30deg);}
+100%{-webkit-transform: rotate(30deg);-ms-transform: rotate(30deg); -moz-transform: rotate(30deg);}
+}
+
+-webkit-@keyframes cir2{
+0%{-webkit-transform: rotate(30deg);-ms-transform: rotate(30deg); -moz-transform: rotate(30deg);}
+100%{-webkit-transform: rotate(-30deg);-ms-transform: rotate(-30deg); -moz-transform: rotate(-30deg);}
 }
 
 
+.circle1, .circle2{
+    position:absolute;
+    width:70px;
+    height:70px;
+    border-radius:50%;
+    margin-top:-36px;
+    margin-left:-6px;
+    border-right:2px solid #FFF;
+    border-left:2px solid transparent;
+    border-top:2px solid #FFF;
+    border-bottom:2px solid #FFF;
+}
+
+.circle1{
+  -webkit-animation: cir1 1s ease;
+  animation: cir1 1s ease;
+}
+
+.circle2{
+  -webkit-animation: cir2 1s ease;
+  animation: cir2 1s ease;
+}
 </style>
 
 </head>
@@ -97,6 +156,9 @@
 
     <div id="preloader">
         <div id="loader">
+            <div class="circle1" style="-webkit-transform: rotate(30deg);-ms-transform: rotate(30deg); transform: rotate(30deg);"></div>
+            <div class="circle2" style="-webkit-transform: rotate(-30deg);-ms-transform: rotate(-30deg); transform: rotate(-30deg);"></div>
+
             <div class="line_main"></div>
 
             <div class="line_long" style="-webkit-transform: rotate(0deg);-ms-transform: rotate(0deg); transform: rotate(0deg);"></div>
