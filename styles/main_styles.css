@@ -369,7 +369,7 @@ section
 	left: 0;
 	width: 100%;
 	border-bottom: solid 1px #000000;
-	background-color: rgba(0, 0, 0, 0.527) ;
+	background-color: rgba(0, 0, 0, 0.8) ;
 	z-index: 100;
 }
 .header_content
@@ -417,7 +417,7 @@ section
 .main_nav ul li.active a,
 .main_nav ul li a:hover
 {
-	color: #732d5d;
+	color: #ce51a9;
 }
 .phone
 {
@@ -425,13 +425,13 @@ section
 	padding-left: 23px;
 	padding-right: 20px;
 	border-radius: 22px;
-	border: solid 1px #732d5d;
-	box-shadow: 0 0 1px 0 #732d5d inset, 0 0 1px 0 #732d5d;
+	border: solid 1px #ce51a9;
+	box-shadow: 0 0 1px 0 #ce51a9 inset, 0 0 1px 0 #ce51a9;
 }
 .phone i
 {
 	font-size: 18px;
-	color: #732d5d;
+	color: #ce51a9;
 	margin-right: 12px;
 }
 .phone > div
@@ -542,7 +542,7 @@ section
 	left: 0;
 	width: 100vw;
 	height: 100vh;
-	background: rgba(0,0,0,0.85);
+	background: rgba(0,0,0,0.9);
 	z-index: 101;
 	visibility: hidden;
 	opacity: 0;
@@ -597,13 +597,13 @@ section
 	padding-left: 23px;
 	padding-right: 20px;
 	border-radius: 22px;
-	border: solid 1px #732d5d;
-	box-shadow: 0 0 1px 0 #732d5d inset, 0 0 1px 0 #732d5d;
+	border: solid 1px #ce51a9;
+	box-shadow: 0 0 1px 0 #ce51a9 inset, 0 0 1px 0 #ce51a9;
 }
 .menu_phone i
 {
 	font-size: 18px;
-	color: #732d5d;
+	color: #ce51a9;
 	margin-right: 12px;
 }
 
@@ -929,13 +929,13 @@ section
 }
 .test_name a:hover
 {
-	color: #732d5d;
+	color: #ce51a9;
 }
 .test_title
 {
 	font-size: 12px;
 	font-weight: 600;
-	color: #732d5d;
+	color: #ce51a9;
 	line-height: 0.75;
 	text-transform: uppercase;
 	margin-top: 9px;
@@ -1086,7 +1086,7 @@ section
 	position: relative;
 	font-size: 14px;
 	font-weight: 600;
-	color: #732d5d;
+	color: #ce51a9;
 }
 .all_posts_link a::after
 {
@@ -1124,7 +1124,7 @@ section
 }
 .blog_post_title a:hover
 {
-	color: #732d5d;
+	color: #ce51a9;
 }
 .blog_post_date
 {
@@ -1135,7 +1135,7 @@ section
 	font-size: 12px;
 	font-weight: 600;
 	text-transform: uppercase;
-	color: #732d5d;
+	color: #ce51a9;
 }
 .blog_post_text
 {
@@ -1153,7 +1153,7 @@ section
 {
 	font-size: 12px;
 	font-weight: 400;
-	color: #732d5d;
+	color: #ce51a9;
 }
 
 /*********************************
@@ -1206,7 +1206,7 @@ section
 }
 .footer_nav ul li a:hover
 {
-	color: #732d5d;
+	color: #ce51a9;
 }
 .newsletter_container
 {

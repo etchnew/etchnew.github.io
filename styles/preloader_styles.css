@@ -30,7 +30,7 @@
   transform: translate3d(-50%, -50%, 0);
 }
 
-.loader_on_pc{position:absolute; margin-left:230px; margin-top:-10px;}
+.loader_on_pc{position:absolute; margin-left:230px; margin-top:-15px;}
 
 @media only screen and (max-width: 575px)
 {
