@@ -272,7 +272,7 @@ section
 	width: 190px;
 	height: 43px;
 	border-radius: 22px;
-	background: #250e2c;
+	background: #250e2c42;
 	box-shadow: 0 0 1px 0 #FFFFFF inset, 0 0 1px 0 #FFFFFF;
 	text-align: center;
 }
@@ -691,7 +691,7 @@ section
 }
 .home_button
 {
-	border: solid 1px #FFFFFF;
+	border: solid 1px #5e366c;
 	margin-top: 44px;
 }
 .home_button a
@@ -781,7 +781,7 @@ section
 	width: 39px;
 	height: 39px;
 	border-radius: 50%;
-	background: #732d5d;
+	background: #ce112b;
 	font-size: 19.2px;
 	font-weight: 500;
 	color: #FFFFFF;
