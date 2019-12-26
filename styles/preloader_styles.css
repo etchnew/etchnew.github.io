@@ -137,15 +137,15 @@
 
 .circle1, .circle2{
     position:absolute;
-    width:70px;
-    height:70px;
+    width:90px;
+    height:90px;
     border-radius:50%;
-    margin-top:-36px;
-    margin-left:-6px;
-    border-right:2px solid #FFF;
-    border-left:2px solid transparent;
-    border-top:2px solid #FFF;
-    border-bottom:2px solid #FFF;
+    margin-top:-44px;
+    margin-left:-15px;
+    border-right:4px solid rgb(204, 1, 1);
+    border-left:3px solid transparent;
+    border-top:3px solid rgb(204, 1, 1);
+    border-bottom:3px solid rgb(204, 1, 1);
 }
 
 .circle1{
