@@ -34,9 +34,9 @@
 						</a>
 						<nav class="main_nav">
 							<ul class="d-flex flex-row align-items-center justify-content-start">
-								<li class="active"><a href="index.html">Home</a></li>
-								<li><a href="about.html">About us</a></li>
-								<li><a href="services.html">Programmes</a></li>
+								<li class="active"><a href="#home">Home</a></li>
+								<li><a href="#about">About us</a></li>
+								<li><a href="#Testimonials">Testimonials</a></li>
 								<li><a href="blog.html">Blog</a></li>
 								<li><a href="contact.html">Contact</a></li>
 							</ul>
@@ -69,9 +69,9 @@
 	<div class="menu trans_800">
 		<div class="menu_content d-flex flex-column align-items-center justify-content-center text-center">
 			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="about.html">About us</a></li>
-				<li><a href="services.html">Programmes</a></li>
+				<li><a href="#home">Home</a></li>
+				<li><a href="#about">About us</a></li>
+				<li><a href="#Testimonials">Testimonials</a></li>
 				<li><a href="blog.html">Blog</a></li>
 				<li><a href="contact.html">Contact</a></li>
 			</ul>
@@ -80,7 +80,7 @@
 
 	<!-- Home -->
 
-	<div class="home">
+	<div class="home" id="home">
 		<div class="background_image" style="background-image:url(images/index.jpg)"></div>
 		<div class="overlay"></div><div id="particles-js"></div>
 		<div class="home_container">
@@ -176,7 +176,7 @@
 
 	<!-- About -->
 
-	<div class="about">
+	<div class="about" id="about">
 		<div class="container about_container">
 			<div class="row">
 				<div class="col-lg-6">
@@ -207,8 +207,8 @@
 
 	<!-- Testimonials -->
 
-	<div class="testimonials">
-		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/middle.jpg" data-speed="0.8"></div>
+	<div class="testimonials" id="Testimonials">
+		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/middle.jpg" data-speed="0"></div>
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6">
@@ -395,7 +395,7 @@
 
 	<div class="blog">
 		<div class="blog_overlay"></div>
-		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/EPIC.png" data-speed="0.8"></div>
+		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/EPIC.png" data-speed="0.1"></div>
 		<div class="container">
 			<div class="row">
 				<div class="col">
@@ -470,7 +470,7 @@
 								<ul class="d-flex flex-sm-row flex-column align-items-sm-start align-items-center justify-content-center">
 									<li><a href="index.html">Home</a></li>
 									<li><a href="about.html">About us</a></li>
-									<li><a href="services.html">Programmes</a></li>
+									<li><a href="#Testimonials">Testimonials</a></li>
 									<li><a href="blog.html">Blog</a></li>
 									<li><a href="contact.html">Contact</a></li>
 								</ul>
@@ -500,5 +500,32 @@
 <script src="js/custom.js"></script>
 <script src="js/particles.js"></script>
 <script src="js/app.js"></script>
+<script>
+	$(document).ready(function(){
+	  // Add smooth scrolling to all links
+	  $("a").on('click', function(event) {
+	
+		// Make sure this.hash has a value before overriding default behavior
+		if (this.hash !== "") {
+		  // Prevent default anchor click behavior
+		  event.preventDefault();
+	
+		  // Store hash
+		  var hash = this.hash;
+	
+		  // Using jQuery's animate() method to add smooth page scroll
+		  // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+		  $('html, body').animate({
+			scrollTop: $(hash).offset().top
+		  }, 800, function(){
+	
+			// Add hash (#) to URL when done scrolling (default click behavior)
+			window.location.hash = hash;
+		  });
+		} // End if
+	  });
+	});
+	</script>
+
 </body>
 </html>
