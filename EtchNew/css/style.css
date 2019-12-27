@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: red;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FF9000;
+  color: red;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FF9000;
+  background: red;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #FF9000;
+  background: red;
 }
 
 ::selection {
   color: #fff;
-  background: #FF9000;
+  background: red;
 }
 
 #fh5co-header,
@@ -140,28 +140,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 4px 15px;
   position: relative;
 }
-#fh5co-header .display-tc h1 span:before,
-.fh5co-cover .display-tc h1 span:before {
-  position: absolute;
-  top: 40px;
-  left: 0;
-  width: 30px;
-  height: 4px;
-  content: '';
-  background: #fff;
-  margin-left: -30px;
-}
-#fh5co-header .display-tc h1 span:after,
-.fh5co-cover .display-tc h1 span:after {
-  position: absolute;
-  top: 40px;
-  right: 0;
-  width: 30px;
-  height: 4px;
-  content: '';
-  background: #fff;
-  margin-right: -30px;
-}
+
 @media screen and (max-width: 768px) {
   #fh5co-header .display-tc h1,
   .fh5co-cover .display-tc h1 {
@@ -220,7 +199,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #FF9000;
+  background: red;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -255,7 +234,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: #FF9000 !important;
+  color: red !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
@@ -306,7 +285,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: red;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -363,7 +342,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #FF9000;
+  color: red;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -400,7 +379,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #FF9000;
+  background: red;
 }
 
 .fh5co-heading {
@@ -530,7 +509,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #FF9000;
+  background-color: red;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -799,7 +778,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 54px;
   border: none !important;
   background: #fff;
-  color: #FF9000;
+  color: red;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1109,9 +1088,9 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #FF9000;
+  background: red;
   color: #fff;
-  border: 2px solid #FF9000;
+  border: 2px solid red;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #ff9b1a !important;
@@ -1119,11 +1098,11 @@ input[type="text"] {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #FF9000;
-  border: 2px solid #FF9000;
+  color: red;
+  border: 2px solid red;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #FF9000;
+  background: red;
   color: #fff;
 }
 
@@ -1253,7 +1232,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #FF9000;
+  border-color: red;
 }
 
 .row-pb-md {
