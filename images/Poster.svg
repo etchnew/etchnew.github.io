@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Poster.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5009"
+       inkscape:collect="always">
+      <stop
+         id="stop5005"
+         offset="0"
+         style="stop-color:#b00000;stop-opacity:1;" />
+      <stop
+         id="stop5007"
+         offset="1"
+         style="stop-color:#b00000;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.03240166,-1.5350361,0.77754596,0.01641277,-756.25774,535.557)"
+       r="277.42468"
+       fy="810.08508"
+       fx="-130.61139"
+       cy="810.08508"
+       cx="-130.61139"
+       id="radialGradient5011"
+       xlink:href="#linearGradient5009"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.94117647"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="515.54315"
+     inkscape:cy="571.39159"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="layer1-0"
+       inkscape:label="Layer 1"
+       transform="matrix(0.67957636,0,0,0.67957636,126.97151,-30.203821)"
+       style="fill:#aa0000;stroke-width:1.47150505">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -130.61139,749.34592 c -12.67455,-7.72817 -12.67455,-23.509 0,-31.23716 15.56909,-9.49308 33.226733,9.41886 23.57499,25.24962 -2.92544,4.79828 -10.08933,8.75785 -15.82823,8.74845 -1.77507,-0.003 -5.26111,-1.24532 -7.74676,-2.76091 z M -330.57839,530.357 a 9.4488171,9.4488171 0 0 1 -9.44881,9.44881 9.4488171,9.4488171 0 0 1 -9.44882,-9.44881 9.4488171,9.4488171 0 0 1 9.44882,-9.44882 9.4488171,9.4488171 0 0 1 9.44881,9.44882 z M 25.803421,509.14383 a 9.4488171,9.4488171 0 0 1 -9.448817,9.44882 9.4488171,9.4488171 0 0 1 -9.4488171,-9.44882 9.4488171,9.4488171 0 0 1 9.4488171,-9.44882 9.4488171,9.4488171 0 0 1 9.448817,9.44882 z M -127.69662,683.45859 V 336.63923 c 0,-8.62395 2.453,-15.5667 5.5,-15.5667 3.047,0 5.5,6.94275 5.5,15.5667 v 346.81936 c 0,8.62394 -2.453,15.5667 -5.5,15.5667 -3.047,0 -5.5,-6.94276 -5.5,-15.5667 z m -69.27095,49.29016 -188.97204,-50.63491 c -8.3301,-2.23204 -14.4014,-6.39836 -13.61278,-9.34156 0.78863,-2.94319 8.12969,-3.51568 16.45979,-1.28364 l 188.97204,50.63491 c 8.3301,2.23204 14.4014,6.39836 13.61277,9.34156 -0.78862,2.94319 -8.12968,3.51568 -16.45978,1.28364 z m 0,0 -188.97204,-50.63491 c -8.3301,-2.23204 -14.4014,-6.39836 -13.61278,-9.34156 0.78863,-2.94319 8.12969,-3.51568 16.45979,-1.28364 l 188.97204,50.63491 c 8.3301,2.23204 14.4014,6.39836 13.61277,9.34156 -0.78862,2.94319 -8.12968,3.51568 -16.45978,1.28364 z m 17.18782,-35.4642 -138.33713,-138.33714 c -6.09806,-6.09805 -9.2728,-12.74184 -7.11823,-14.89641 2.15454,-2.15454 8.79836,1.02018 14.89641,7.11823 l 138.33713,138.33713 c 6.09806,6.09806 9.27277,12.74187 7.11823,14.89641 -2.15457,2.15457 -8.79835,-1.02017 -14.89641,-7.11822 z m 32.61715,-22.11898 -50.6349,-188.97204 c -2.23205,-8.33012 -1.65954,-15.67116 1.28363,-16.45978 2.94317,-0.78863 7.1095,5.28265 9.34155,13.61277 l 50.6349,188.97204 c 2.23204,8.33008 1.65955,15.67116 -1.28363,16.45979 -2.94317,0.78862 -7.10951,-5.2827 -9.34155,-13.61278 z m 39.30679,-2.84702 50.634903,-188.97204 c 2.232039,-8.33009 6.398376,-14.4014 9.34155,-13.61278 2.943178,0.78862 3.515675,8.1297 1.283636,16.45979 l -50.634906,188.97204 c -2.232049,8.33012 -6.398373,14.40139 -9.341553,13.61277 -2.94317,-0.78862 -3.51568,-8.12966 -1.28363,-16.45978 z M -72.391611,689.50633 65.945515,551.1692 c 6.098055,-6.09805 12.741846,-9.27279 14.896413,-7.11823 2.15454,2.15454 -1.020174,8.79836 -7.118229,14.89642 L -64.613427,697.28451 c -6.098072,6.09807 -12.741873,9.27277 -14.896413,7.11823 -2.154567,-2.15456 1.020158,-8.79834 7.118229,-14.89641 z m 22.118961,32.61715 188.97204,-50.63491 c 8.3301,-2.23204 15.67117,-1.65951 16.45979,1.28364 0.78862,2.9432 -5.28268,7.10952 -13.61277,9.34156 l -188.972047,50.63491 c -8.330099,2.23204 -15.671161,1.65955 -16.459787,-1.28364 -0.788616,-2.94316 5.282676,-7.10952 13.612774,-9.34156 z m -140.43549,-8.23826 -136.69603,-78.92149 c -7.46856,-4.31197 -12.25465,-9.90773 -10.73116,-12.54649 1.52351,-2.6388 8.7626,-1.29177 16.23116,3.0202 l 136.69604,78.92149 c 7.46856,4.31198 12.25466,9.9077 10.73115,12.5465 -1.52349,2.63876 -8.7626,1.29177 -16.23116,-3.02021 z m 0,0 -136.69603,-78.92149 c -7.46856,-4.31197 -12.25465,-9.90773 -10.73116,-12.54649 1.52351,-2.6388 8.7626,-1.29177 16.23116,3.0202 l 136.69604,78.92149 c 7.46856,4.31198 12.25466,9.9077 10.73115,12.5465 -1.52349,2.63876 -8.7626,1.29177 -16.23116,-3.02021 z m 25.78092,-29.80723 -78.92148,-136.69602 c -4.31198,-7.46856 -5.659,-14.70765 -3.02021,-16.23116 2.63877,-1.52349 8.23452,3.26259 12.5465,10.73115 l 78.92148,136.69602 c 4.31199,7.46859 5.65897,14.70768 3.02021,16.23117 -2.63879,1.52351 -8.23451,-3.26258 -12.5465,-10.73116 z m 75.934913,-5.50004 78.921488,-136.69603 c 4.3119872,-7.46858 9.90771163,-12.25465 12.5464897,-10.73116 2.6387781,1.5235 1.2917749,8.76258 -3.02021259,16.23116 L -79.466029,684.07795 c -4.311969,7.46855 -9.907712,12.25466 -12.54649,10.73116 -2.638779,-1.5235 -1.291756,-8.76261 3.020212,-16.23116 z m 29.807223,25.78096 136.696024,-78.92148 c 7.468561,-4.31198 14.707654,-5.659 16.231163,-3.02021 1.523489,2.63876 -3.262595,8.23452 -10.731157,12.5465 L -53.685077,713.8852 c -7.468582,4.31199 -14.707673,5.65897 -16.231163,3.02021 -1.523509,-2.63879 3.262575,-8.23451 10.731156,-12.5465 z M -355.97446,741.5895 h 157.84298 c 8.62396,0 15.56671,2.45299 15.56671,5.50001 0,3.04698 -6.94275,5.5 -15.56671,5.5 h -157.84298 c -8.62395,0 -15.56669,-2.45302 -15.56669,-5.5 0,-3.04702 6.94274,-5.50001 15.56669,-5.50001 z m 309.712728,0 H 111.58125 c 8.62395,0 15.5667,2.45299 15.5667,5.50001 0,3.04698 -6.94275,5.5 -15.5667,5.5 H -46.261732 c -8.623952,0 -15.566698,-2.45302 -15.566698,-5.5 0,-3.04702 6.942746,-5.50001 15.566698,-5.50001 z m -57.037248,-7.89766 a 18.897636,18.897636 0 0 1 -18.89764,18.89764 18.897636,18.897636 0 0 1 -18.89764,-18.89764 18.897636,18.897636 0 0 1 18.89764,-18.8976 18.897636,18.897636 0 0 1 18.89764,18.8976 z"
+         style="fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient5011);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="scale(0.26458333)"
+         id="path4895" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="16.850344"
+       y="20.108793"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="16.850344"
+         y="20.108793"
+         style="stroke-width:0.26458332">International School of Photonics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.159424"
+       y="134.79056"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="33.159424"
+         y="134.79056"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">EtchNew 2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.48254299px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="36.120483"
+       y="155.67953"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="36.120483"
+         y="155.67953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Everything, from the distant stars to </tspan><tspan
+         sodipodi:role="line"
+         x="36.120483"
+         y="167.53271"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan853">the fireflies at night, signifies the</tspan><tspan
+         sodipodi:role="line"
+         x="36.120483"
+         y="179.38589"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan855">mastery of light. Set in the backdrop </tspan><tspan
+         sodipodi:role="line"
+         x="36.120483"
+         y="191.23907"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan861">of various disciples of physical science,</tspan><tspan
+         sodipodi:role="line"
+         x="36.120483"
+         y="203.09225"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan859">the annual Optics fest EtchNew 2017</tspan><tspan
+         sodipodi:role="line"
+         x="36.120483"
+         y="214.94543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan877">brings together both,the fundamental</tspan><tspan
+         sodipodi:role="line"
+         x="36.120483"
+         y="226.79861"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan879">and advanced concepts, and </tspan><tspan
+         sodipodi:role="line"
+         x="36.120483"
+         y="238.65178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan881">applications of photonics. Join us in</tspan><tspan
+         sodipodi:role="line"
+         x="36.120483"
+         y="250.50496"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan883"> the journey to applications of </tspan><tspan
+         sodipodi:role="line"
+         x="36.120483"
+         y="262.35815"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan885">photonics. Join us in the journey to </tspan><tspan
+         sodipodi:role="line"
+         x="36.120483"
+         y="274.21133"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan887">embark the advent, development and </tspan><tspan
+         sodipodi:role="line"
+         x="36.120483"
+         y="286.06451"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan889">future of light</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b00000;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect891"
+       width="182.18451"
+       height="33.261906"
+       x="13.907745"
+       y="110.27975"
+       rx="4.1186895"
+       ry="5.6843419e-14" />
+  </g>
+</svg>
