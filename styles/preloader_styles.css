@@ -143,9 +143,9 @@
     margin-top:-44px;
     margin-left:-15px;
     border-right:4px solid rgb(204, 1, 1);
-    border-left:3px solid transparent;
-    border-top:3px solid rgb(204, 1, 1);
-    border-bottom:3px solid rgb(204, 1, 1);
+    border-left:4px solid transparent;
+    border-top:4px solid rgb(204, 1, 1);
+    border-bottom:4px solid rgb(204, 1, 1);
 }
 
 .circle1{
