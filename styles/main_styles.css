@@ -947,7 +947,7 @@ section
 .test_text p
 {
 	font-style: italic;
-	color: #a8a8a8;
+	color:white;
 }
 .test_rating
 {
@@ -1309,4 +1309,7 @@ section
 }
 .red{
 	color: red;
+}
+.pop{
+	background: rgba(0, 0, 0,0.7);
 }
