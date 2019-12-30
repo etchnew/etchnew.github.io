@@ -76,7 +76,7 @@ p a
 	display: inline;
 	position: relative;
 	color: inherit;
-	border-bottom: solid 1px #732d5d;
+	
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -109,8 +109,7 @@ p a:active
 }
 p a:hover
 {
-	color: #FFFFFF;
-	background: #732d5d;
+	
 }
 p a:hover::after
 {
@@ -1312,4 +1311,12 @@ section
 }
 .pop{
 	background: rgba(0, 0, 0,0.7);
+}
+a{
+	text-decoration: none;
+	
+}
+a:hover{
+	text-shadow:rgba(0, 0, 0,0.7);
+	color:white;
 }
