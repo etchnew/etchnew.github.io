@@ -1312,11 +1312,11 @@ section
 .pop{
 	background: rgba(0, 0, 0,0.7);
 }
-a{
+.lol{
 	text-decoration: none;
 	
 }
-a:hover{
+.lol:hover{
 	text-shadow:rgba(0, 0, 0,0.7);
 	color:white;
 }
