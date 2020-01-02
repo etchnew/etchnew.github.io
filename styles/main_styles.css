@@ -1434,3 +1434,17 @@ section
 	85%  { opacity:1; }
 	100% { opacity:0; }
   }
+#logoleft{
+	left:20px;
+	bottom:50px;
+	position: absolute;
+	max-height: 100px;
+
+}
+#logoright{
+	right:20px;
+	bottom:50px;
+	position: absolute;
+	max-height: 100px;
+
+}
