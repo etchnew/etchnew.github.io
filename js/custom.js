@@ -12,6 +12,13 @@
 
 
 ******************************/
+$(window).on('load',function(){
+	$('html, body').animate({ scrollTop: 0 }, 'normal');
+	$('.preloader').addClass('complete');
+	
+});
+
+
 
 $(document).ready(function()
 {
