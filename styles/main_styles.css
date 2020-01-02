@@ -1371,10 +1371,10 @@ section
 	transform: translate(-50%,-50%);
 	width: 100px;
 	height: 100px;
-	-webkit-animation: flickerAnimation 1s infinite;
-	-moz-animation: flickerAnimation 1s infinite;
-	-o-animation: flickerAnimation 1s infinite;
-	 animation: flickerAnimation 1s infinite;
+	-webkit-animation: flickerAnimation 1.95s infinite;
+	-moz-animation: flickerAnimation 1.95s infinite;
+	-o-animation: flickerAnimation 1.95s infinite;
+	 animation: flickerAnimation 1.95s infinite;
 	background: none;
 	z-index: 801;
 }
@@ -1411,22 +1411,26 @@ section
 	}
 }
 @keyframes flickerAnimation {
-	0%   { opacity:1; }
-	50%  { opacity:0; }
-	100% { opacity:1; }
+	0%   {opacity:0;}
+	10%  {opacity:1;}
+	85%  { opacity:1; }
+	100% { opacity:0; }
   }
   @-o-keyframes flickerAnimation{
-	0%   { opacity:1; }
-	50%  { opacity:0; }
-	100% { opacity:1; }
+	0%   {opacity:0;}
+	10%  {opacity:1;}
+	85%  { opacity:1; }
+	100% { opacity:0; }
   }
   @-moz-keyframes flickerAnimation{
-	0%   { opacity:1; }
-	50%  { opacity:0; }
-	100% { opacity:1; }
+	0%   {opacity:0;}
+	10%  {opacity:1;}
+	85%  { opacity:1; }
+	100% { opacity:0; }
   }
   @-webkit-keyframes flickerAnimation{
-	0%   { opacity:1; }
-	50%  { opacity:0; }
-	100% { opacity:1; }
+	0%   {opacity:0;}
+	10%  {opacity:1;}
+	85%  { opacity:1; }
+	100% { opacity:0; }
   }
