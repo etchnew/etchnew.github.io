@@ -17,6 +17,7 @@
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/preloader_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/responsive.css">
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 <body>
 	<!-- Preloader -->
@@ -222,7 +223,16 @@
 
 					<!-- Testimonial -->
 					<div class="test test_1 d-flex flex-row pop align-items-start justify-content-start">
-						<div><div class="test_image"><img src="images/icon_white.png"></div></div>
+						<div
+						data-aos="fade-right"
+						data-aos-offset="0"
+						data-aos-delay="50"
+						data-aos-duration="1000"
+						data-aos-easing="ease-in-out"
+						data-aos-mirror="true"
+						data-aos-once="false"
+						data-aos-anchor-placement="top-center"
+					  ><div><div class="test_image"><img src="images/icon_white.png"></div></div>
 						<div class="test_content">
 							<div class="test_name"><a href="#">Arjun Gopakumar</a></div>
 							<div class="test_title">Student</div>
@@ -232,12 +242,22 @@
 							<div class="rating rating_5 test_rating"><i></i><i></i><i></i><i></i><i></i></div>
 						</div>
 					</div>
+					</div>
 				</div>
 				<div class="col-lg-6">
 					
 					<!-- Testimonial -->
 					<div class="test d-flex flex-row pop align-items-start justify-content-start">
-						<div><div class="test_image"><img src="images/icon_white.png" alt=""></div></div>
+						<div
+						data-aos="fade-down"
+						data-aos-offset="10"
+						data-aos-delay="25"
+						data-aos-duration="1000"
+						data-aos-easing="ease-in-out"
+						data-aos-mirror="true"
+						data-aos-once="false"
+						data-aos-anchor-placement="top-center"
+					  ><div><div class="test_image"><img src="images/icon_white.png" alt=""></div></div>
 						<div class="test_content">
 							<div class="test_name"><a href="#">Savithri</a></div>
 							<div class="test_title">Teacher</div>
@@ -246,11 +266,21 @@
 							</div>
 							<div class="rating rating_5 test_rating"><i></i><i></i><i></i><i></i><i></i></div>
 						</div>
+						</div>
 					</div>
 
 					<!-- Testimonial -->
 					<div class="test d-flex flex-row pop align-items-start justify-content-start">
-						<div><div class="test_image"><img src="images/icon_white.png" alt=""></div></div>
+						<div
+						data-aos="fade-up"
+						data-aos-offset="0"
+						data-aos-delay="50"
+						data-aos-duration="1000"
+						data-aos-easing="ease-in-out"
+						data-aos-mirror="true"
+						data-aos-once="false"
+						data-aos-anchor-placement="top-center"
+					  ><div><div class="test_image"><img src="images/icon_white.png" alt=""></div></div>
 						<div class="test_content">
 							<div class="test_name"><a href="#">Govind</a></div>
 							<div class="test_title">Student</div>
@@ -260,7 +290,7 @@
 							<div class="rating rating_5 test_rating"><i></i><i></i><i></i><i></i><i></i></div>
 						</div>
 					</div>
-
+				</div>
 				</div>
 			</div>
 			<div class="row test_button_row">
@@ -506,7 +536,10 @@
 <script src="js/custom.js"></script>
 <script src="js/particles.js"></script>
 <script src="js/app.js"></script>
-
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>   
+	AOS.init(); 
+ </script>
 <script>
 	$(document).ready(function(){
 	  // Add smooth scrolling to all links
