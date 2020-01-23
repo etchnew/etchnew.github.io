@@ -1503,6 +1503,8 @@ section
 	background: #59234d;
 	font-weight: 600;
 	border-radius: 20px;
+	margin:1%;
+	padding:10px;
 }
 
 .schedule_time
@@ -1515,6 +1517,9 @@ section
 	list-style: none;
 	text-decoration: none;
 	padding:10px;
+	color: #262626;
+	margin-left: 5%;
+	opacity: 0.8;
 }
 
 .schedule_content li ul li
