@@ -17,6 +17,7 @@
 10. Services
 11. Blog
 12. Footer
+13. Schedule
 
 
 ******************************/
@@ -1457,4 +1458,66 @@ section
 }
 #post:hover{
 	color:rgba(128, 50, 103, 0.925) ;
+}
+
+/*********************************
+13. Schedule
+*********************************/
+
+.schedule
+{
+	padding-top: 94px;
+	 background: #FFFFFF;
+}
+.schedule_inner
+{
+	z-index: 2;
+}
+.schedule_content
+{
+	-webkit-transform: translateY(28px);
+	-moz-transform: translateY(28px);
+	-ms-transform: translateY(28px);
+	-o-transform: translateY(28px);
+	transform: translateY(28px);
+}
+
+.schedule_highlight
+{
+	font-size: 16px;
+	font-weight: 400;
+	columns: #000000;
+	line-height: 1.75;
+	margin-top: 35px;
+}
+.schedule_text
+{
+	margin-top: 28px;
+}
+
+.schedule_day
+{
+	color:#FFFFFF;
+	text-align: center;
+	width:20%;
+	background: #59234d;
+	font-weight: 600;
+	border-radius: 20px;
+}
+
+.schedule_time
+{
+	font-weight: 600;
+}
+
+.schedule_content li
+{
+	list-style: none;
+	text-decoration: none;
+	padding:10px;
+}
+
+.schedule_content li ul li
+{
+	margin-left: 20px;
 }
