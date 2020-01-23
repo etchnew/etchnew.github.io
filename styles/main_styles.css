@@ -1449,3 +1449,12 @@ section
 	max-height: 100px;
 
 }
+#quiz:hover{
+	color:rgba(128, 50, 103, 0.925);
+}
+#post {
+	color: #000;
+}
+#post:hover{
+	color:rgba(128, 50, 103, 0.925) ;
+}
