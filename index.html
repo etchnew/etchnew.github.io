@@ -50,6 +50,12 @@
 								<li><a href="#Spotlight">Spot Light</a></li>
 								<li><a href="#Contact">Contact</a></li>
 							</ul>
+							<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+							<script>
+								$(document).on('click', 'ul li', function(){
+									$(this).addClass('active').siblings().removeClass('active')
+								})
+							</script>
 						</nav>
 					</div>
 				</div>
@@ -306,7 +312,12 @@
                                 <li><span class="schedule_time">10:00 AM : </span>Registration for Quiz</li>
                                 <li><span class="schedule_time">11:00 AM : </span>Quiz Competition Prelims</li>
                                 <li><span class="schedule_time">02:00 PM : </span>Quiz Competition Finals</li>
-                            </ul>
+							</ul>
+							<div>
+								<p></p>
+								<p><span style="color:#732d5d; font-size:20;">*</span> For School Students only</p>
+								<p><span style="color:#732d5d; font-size:20;">*</span> ID must for individual Registration</p>								
+							</div>
                         </div>
 					</div>
 			</div>
