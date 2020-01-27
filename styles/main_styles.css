@@ -17,7 +17,6 @@
 10. Services
 11. Blog
 12. Footer
-13. Schedule
 
 
 ******************************/
@@ -1459,6 +1458,7 @@ section
 }
 #post:hover{
 	color:rgba(128, 50, 103, 0.925) ;
+<<<<<<< HEAD
 }
 
 /*********************************
@@ -1528,3 +1528,6 @@ section
 {
 	margin-left: 20px;
 }
+=======
+}
+>>>>>>> parent of 1fbff9a... Update main_styles.css
